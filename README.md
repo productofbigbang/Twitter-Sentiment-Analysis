@@ -1,7 +1,7 @@
 # Twitter Sentiment Analysis 2024
 
-"""
-README
+
+
 
 
 
@@ -46,4 +46,4 @@ The script will output the accuracy for each classifier and the overall average 
 - Tune hyperparameters of classifiers for potentially improved performance.
 
 
-"""
+
